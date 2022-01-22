@@ -1,4 +1,4 @@
-## OpenCV 공부 - Day1
+# OpenCV 공부 - Day1
 ### Reference
 > https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=2990s
 
@@ -52,7 +52,7 @@ imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 cv2.imshow("Gray Image", imgGray)
 cv2.waitKey(0)
 ```
-<img src="../img/lena_gray.png">
+<img src="../img/img1/lena_gray.png">
 
 
 ### Blur Image
@@ -68,7 +68,7 @@ cv2.imshow("Gray Image", imgGray)
 cv2.imshow("Blur Image", imgBlur)
 cv2.waitKey(0)
 ```
-<img src="../img/lena_blur.png">
+<img src="../img/img1/lena_blur.png">
 
 
 ### Canny Image
@@ -86,7 +86,7 @@ cv2.imshow("Blur Image", imgBlur)
 cv2.imshow("Canny Image", imgCanny)
 cv2.waitKey(0)
 ```
-<img src="../img/lena_canny.png">
+<img src="../img/img1/lena_canny.png">
 
 
 ### Dilation Image
@@ -108,12 +108,12 @@ cv2.imshow("Canny Image", imgCanny)
 cv2.imshow("Dilation Image", imgDialation)
 cv2.waitKey(0)
 ```
-<img src="../img/lena_dilation.png">
+<img src="../img/img1/lena_dilation.png">
 
 <br>
 `iterations=5`로 할 경우(아래 이미지 참고)
 
-<img src="../img/lena_dilation_5.png">
+<img src="../img/img1/lena_dilation_5.png">
 
 
 ### Eroded Image
@@ -137,4 +137,4 @@ cv2.imshow("Dilation Image", imgDialation)
 cv2.imshow("Eroded Image", imgEroded)
 cv2.waitKey(0)
 ```
-<img src="../img/lena_eroded.png">
+<img src="../img/img1/lena_eroded.png">
