@@ -4,6 +4,10 @@ OpenCV를 공부한 내용을 정리한 저장소
 ## Reference
 > https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=2990s
 
+## python directory
+> https://github.com/Jarvis-Geun/OpencvPython/tree/main/python
+- 강의를 따라하면서 직접 작성한 코드를 정리한 디렉토리
+
 ## Day1
 > https://github.com/Jarvis-Geun/OpencvPython/tree/main/Day1
 - Chap2까지 공부한 내용을 정리하였음
