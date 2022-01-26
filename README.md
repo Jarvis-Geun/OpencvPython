@@ -17,4 +17,4 @@ OpenCV를 공부한 내용을 정리한 저장소
 - Chap6까지 공부한 내용을 정리하였음
 
 ## Day3
-> 
+> https://github.com/Jarvis-Geun/OpencvPython/tree/main/Day3
