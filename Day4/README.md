@@ -2,6 +2,8 @@
 ### Reference
 > https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=2990s
 
+<br>
+
 ## Chap8 Contours / Shape Detection
 `countour` : 윤곽, 경계선, 등고선
 
@@ -425,3 +427,8 @@ def getContours(img) :
 
 ### 출력결과
 <img src="../img/img4/Chap8_8.png">
+
+
+### 참고할만한 사이트
+- [다양한 외곽선 관련함수](https://deep-learning-study.tistory.com/232)
+- [OpenCV Contour Features](https://docs.opencv.org/4.3.0/dd/d49/tutorial_py_contour_features.html)
