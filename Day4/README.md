@@ -237,7 +237,7 @@ cv2.waitKey(0)
 
 
 ### 출력결과
-<img src="../Day4/Chap8_5.png">
+<img src="../img/img4/Chap8_5.png">
 
 
 ### 8.4 세부코드
