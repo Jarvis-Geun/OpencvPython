@@ -35,3 +35,9 @@ Chap7까지 공부한 내용 정리
 
 Chap8까지 공부한 내용 정리
 - `Chap8 : Contour / Shape Detection`
+
+## Day5
+> https://github.com/Jarvis-Geun/OpencvPython/tree/main/Day5
+
+Chap9까지 공부한 내용 정리
+- `Chap9 : Face detection`
