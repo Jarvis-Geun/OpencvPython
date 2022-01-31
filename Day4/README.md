@@ -7,7 +7,7 @@
 ## Chap8 Contours / Shape Detection
 `countour` : 윤곽, 경계선, 등고선
 
-### 8.1 code
+## 8.1 code
 ```python
 import cv2
 from cv2 import COLOR_BGR2GRAY
