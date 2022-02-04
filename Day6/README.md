@@ -140,7 +140,7 @@ myColors = [[163, 110, 0, 179, 255, 255],   # RED
 - 위와 마찬가지로 BLUE, YELLOW에 대해서도 변경해줌
 
 ### 출력결과 : RED
-
+d
 <img src="../img/img6/detect_RED_1.png">
 <img src="../img/img6/detect_RED_2.png">
 
