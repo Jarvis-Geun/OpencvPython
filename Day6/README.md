@@ -372,6 +372,7 @@ while True :
 ```
 - `myColorValues` 리스트를 정의하여 해당 색상 값(BGR)을 RED, BLUE, ORANGE 순서로 저장했음
 - findColor() 함수의 매개변수로 `myColorValues`를 추가해줌
+- ORAGE의 `RGB 값`을 알기위해서 [RGB color code를 검색](https://www.rapidtables.com/web/color/RGB_Color.html)하여 값을 얻음
 
 ### 출력결과
 <img src="../img/img6/myColorValues.png">
