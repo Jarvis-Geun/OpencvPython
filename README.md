@@ -44,5 +44,6 @@ Chap9까지 공부한 내용 정리
 
 ## Day6
 > https://github.com/Jarvis-Geun/OpencvPython/tree/main/Day6
+
 Project1까지 공부한 내용 정리
 - `Project1 : Virtual Paint`
