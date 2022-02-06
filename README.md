@@ -50,4 +50,6 @@ Project1까지 공부한 내용 정리
 
 ## Day7
 > https://github.com/Jarvis-Geun/OpencvPython/tree/main/Day7
+
+Project2까지 공부한 내용 정리
 - `Project2 : Document Scanner`

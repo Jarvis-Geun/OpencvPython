@@ -49,12 +49,12 @@ while True :
 
 
 ### Result(preprocessing) : `return imgThres`
-<img src = "../img/img7/preprocessing.png">
+<img src = "../img/img7/preprocessing.png" width=640 height=480>
 
 <br>
 
 ### Result(preprocessing) : `return imgCanny`
-<img src="../img/img7/canny.png">
+<img src="../img/img7/canny.png" width=640 height=480>
 
 <br>
 
