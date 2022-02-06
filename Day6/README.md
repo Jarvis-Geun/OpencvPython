@@ -1,4 +1,4 @@
-# OpenCV 공부 - Day5
+# OpenCV 공부 - Day6
 ### Reference
 > https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=2990s
 

@@ -47,3 +47,7 @@ Chap9까지 공부한 내용 정리
 
 Project1까지 공부한 내용 정리
 - `Project1 : Virtual Paint`
+
+## Day7
+> https://github.com/Jarvis-Geun/OpencvPython/tree/main/Day7
+- `Project2 : Document Scanner`
